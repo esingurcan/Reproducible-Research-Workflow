@@ -172,7 +172,7 @@ Fernando | Romero | Engineering
 Sadia | Tasnim | Engineering
 Almodather | Mohamed | Civil Engineering
 Emilie | Diesbourg | Biology
-Noah | Britt | PNB
+Esin | Gürcan | PNB
 Elizabeth | Phillips | PNB
 Claire | Gillespie | Chemistry
 
